@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm  <br>M C Sreeram Charan<br>🎓 3rd Year CSE Student at GITAM University<br>💡 Passionate about Python, Web Development, and Machine Learning<br>🚀 Currently building real-world projects to become job-ready<br><br>🔭 I’m currently working on:<br><br>* Heart Disease Prediction System (ML + Flask)<br><br>🌱 I’m currently learning:<br><br>* JavaScript & React.js<br>* Data Structures & Algorithms<br>* Machine Learning<br><br>🎯 Goal:<br>To secure a good software job and build impactful applications<br><br>📫 Reach me at:<br>sreeramcharan202@gmail.com<br>
+💡 I enjoy building real-world applications and solving problems using technology.
+Hi 👋, I'm  <br>M C Sreeram Charan<br>🎓 3rd Year CSE Student at GITAM University<br>💡 Passionate about Python, Web Development, and Machine Learning<br>🚀 Currently building real-world projects to become job-ready<br><br>🔭 I’m currently working on:<br><br>* Heart Disease Prediction System (ML + Flask)<br><br>🌱 I’m currently learning:<br><br>* JavaScript & React.js<br>* Data Structures & Algorithms<br>* Machine Learning<br><br>🎯 Goal:<br>To secure a good software job and build impactful applications<br><br>📫 📧 Email: sreeramcharan202@gmail.com<br>
 
 
 ## 🌐 Socials:
